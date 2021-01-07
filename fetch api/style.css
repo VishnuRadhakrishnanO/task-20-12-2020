@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(74, 77, 76);
+    padding-left: 50px;
+
+}
+
+.card{
+    
+background-color: rgb(25, 46, 39);
+color: rgb(132, 139, 143);
+width: 250px; margin: 1vw; height: 300px;
+}
+
+.card-header{
+    background-color: rgb(222, 236, 243);
+}
+
+.card-img-top{
+    height: 100px;
+}
